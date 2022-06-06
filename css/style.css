@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    width: 80%;
+}
+.col-45{
+    width: 45%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.col-35{
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.col-30{
+    width: 28%;
+    float: left;
+    margin-left: 5%;
+    
+}
+section{
+    height: 500px;
+    padding: 100px 0 100px 0;
+ }
+.header{
+    background-image: url(../img/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+ }
+ .header-left{
+   margin: 150px 0 0 160px;
+ }
+ h2{
+     font-size: 40px;
+     color: brown;
+ }
+ h3{
+     font-size: 30px;
+ }
+ p{
+     color: lightslategray;
+     margin-bottom: 50px;
+ }
+ .btn{
+     padding: 12px 30px;
+     background-color: brown;
+     border-radius: 5px;
+     text-decoration: none;
+     color: #fff;
+     
+ }
+ .dream-right{
+    margin: 100px 100px 0 0;
+  }
+.dream{
+    background-image: url(../img/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+.latest-work h2{
+    text-align: center;
+}
+.latest-work{
+    background-image: url(../img/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+footer{
+    text-align: center;
+}
+.contact{
+    width: 40%;
+    height: 150px;
+    background-image: linear-gradient(45deg,green,navy);
+    border-radius: 10px;
+    margin: auto;
+    color: white;
+}
+.contact p{
+    padding-top: 30px;
+    color: #fff;
+}
+.contact span{
+   font-size: 20px;
+}
+footer p{
+    margin-top: 50px;
+}
+ 
